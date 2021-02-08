@@ -1,7 +1,4 @@
 This is a book
-<<<<<<< HEAD
 from branch main
-=======
 from branch feature2
->>>>>>> feature2
 123456
